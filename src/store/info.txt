@@ -1,0 +1,1 @@
+Folder này liên quan actions, states cho tất cả các trang (Ví dụ sử dụng Redux)

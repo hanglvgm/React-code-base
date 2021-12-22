@@ -1,0 +1,1 @@
+Folder này liên quan actions, states cho app (Ví dụ sử dụng Redux)
